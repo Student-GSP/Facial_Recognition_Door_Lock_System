@@ -114,3 +114,21 @@ The ESP32-CAM based smart lock worked successfully in a local environment, provi
 ### 8. Circuit testing
 ![Testing](images/Circuit_Testing.png)
 
+## 🎥 Output Demo
+
+PRACTICAL WORKING 
+• If anyone press the bell (Buzzer) then you will receive notification with the picture of that person in telegram 
+app.
+
+![Demo](images/Front_view.png)
+
+• You can take photos multiple time, if photos are not cleared or blurred.
+
+![Demo](images/Demo.png)
+
+Accordingly, you tab on lock/unlock. 
+•  when you tab on unlock, Door open.  
+•  when you tab on lock, Door close. 
+
+![Demo](images/Demo1.png)
+
