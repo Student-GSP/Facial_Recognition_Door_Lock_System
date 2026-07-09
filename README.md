@@ -86,5 +86,3 @@ The hardware was designed and fabricated using the following steps:
 This project demonstrates how **IoT and AI-based facial recognition** can be integrated into security systems.  
 The ESP32-CAM based smart lock worked successfully in a local environment, providing reliable performance and enhanced security.  
 
-## 📂 Repository Structure
-
