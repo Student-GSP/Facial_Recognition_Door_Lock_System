@@ -101,7 +101,7 @@ The ESP32-CAM based smart lock worked successfully in a local environment, provi
 ![Etching](images/Etching.png)
 
 ### 5. Sandpaper finishing
-![Finishing](images/sandpaper_Finishing.png)
+![Finishing](images/Sandpaper_Finishing.png)
 
 ### 6. Typing and drilling
 ![Typing](images/Tiping.png)
