@@ -86,5 +86,31 @@ The hardware was designed and fabricated using the following steps:
 This project demonstrates how **IoT and AI-based facial recognition** can be integrated into security systems.  
 The ESP32-CAM based smart lock worked successfully in a local environment, providing reliable performance and enhanced security.  
 
-![Circuit design on EAGLE software](images/Circuit_Design.png)
-![Demo](image/Demo.png)
+## PCB Fabrication Steps
+
+### 1. Circuit design on **EAGLE software**
+![EAGLE Design](images/Circuit_Design.png)
+
+### 2. Printing on glossy paper
+![Glossy Print](images/.png)
+
+### 3. Lithography process
+![Lithography](images/Lithography.png)
+
+### 4. Chemical etching
+![Etching](images/Etching.png)
+
+### 5. Sandpaper finishing
+![Finishing](images/sandpaper_Finishing.png)
+
+### 6. Typing and drilling
+![Typing](images/Tiping.png)
+![Drilling](images/Drilling.png)
+
+### 7. Component placement and soldering
+![Component placement](images/Component_Interface.png)
+![Soldering](images/Soldering.png)
+
+### 8. Circuit testing
+![Testing](images/Circuit_Testing.png)
+
