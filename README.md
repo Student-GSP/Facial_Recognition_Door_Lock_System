@@ -23,7 +23,7 @@ This project leverages **ESP32-CAM with AI-based facial recognition** to create 
 
 ## PCB Circuit Design Process
 The hardware was designed and fabricated using the following steps:
-1. Circuit design on **EAGLE software**  ![Circuit design on EAGLE software](images/Circuit_Design.png)
+1. Circuit design on **EAGLE software**  
 2. Printing on glossy paper  
 3. Lithography process  
 4. Chemical etching  
