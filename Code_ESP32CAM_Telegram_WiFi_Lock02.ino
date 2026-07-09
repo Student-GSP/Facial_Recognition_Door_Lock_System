@@ -1,4 +1,4 @@
-/**********************************************************************************
+/*********************************************************************************
  *  TITLE: ESP32CAM Telegram WiFi Door Lock with photo capture
  *  Click on the following links to learn more. 
  *  YouTube Video: https://youtu.be/11V2ZzHpW3Q
