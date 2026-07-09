@@ -126,7 +126,8 @@ app.
 
 ![Demo](images/Demo.png)
 
-Accordingly, you tab on lock/unlock. 
+Accordingly, you tab on lock/unlock.
+
 •  when you tab on unlock, Door open.  
 •  when you tab on lock, Door close. 
 
