@@ -4,7 +4,7 @@ This is my first Git Repository.
 <br>
 Author - Shobha Gupta
 
-# Facial Recognition Smart Door Lock using ESP32-CAM And Telegram API
+# Facial Recognition Smart Door Lock using ESP32-CAM And Telegram API 
 
 ## Project Overview
 This project implements a **Face Recognition-based Smart Door Lock System** using the **ESP32-CAM module**.  
